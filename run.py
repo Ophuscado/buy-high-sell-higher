@@ -8,7 +8,6 @@ This script will attempt to profit buying low and selling high on FTX.
 
 import os
 from datetime import datetime
-from time import sleep
 
 import ccxt
 from dotenv import load_dotenv
@@ -101,7 +100,6 @@ def main():
             f"{float(ticker.get('info').get('volumeUsd24h')):,} {REFERENCE}",
             style=colour,
         )
-        sleep(1)
 
     console.print(table)
 
