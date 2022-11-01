@@ -29,7 +29,6 @@ client = ccxt.ftx()
 client.apiKey = os.environ["FTX_PUBLIC_KEY"]
 client.secret = os.environ["FTX_SECRET_KEY"]
 client_params = {"subaccount": os.environ["FTX_SUBACCOUNT"]}
-client.cancel_all_orders(params=client_params)
 balances = client.fetch_balance(params=client_params)
 
 # UI
@@ -49,6 +48,9 @@ table.add_column("Volume (24h)")
 
 def main():
     """Main function."""
+    if LIVE_MODE:
+        client.cancel_all_orders(params=client_params)
+
     for _, currency in track(enumerate(CURRENCIES), description="Processing..."):
         action, colour = "HODL", "white"
         symbol = f"{currency}/{REFERENCE}"
