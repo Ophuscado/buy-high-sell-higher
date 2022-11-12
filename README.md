@@ -8,7 +8,7 @@ You are welcome to reach out if you need any clarification or have suggestions r
 
 ### Preview
 
-![Screenshot](https://github.com/Ophuscado/buy-high-sell-higher/blob/master/screenshot.png)
+![Screenshot](https://raw.githubusercontent.com/Ophuscado/buy-high-sell-higher/main/screenshot.png)
 
 ## Attributions
 
