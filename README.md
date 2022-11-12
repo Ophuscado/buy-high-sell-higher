@@ -6,6 +6,10 @@ Prototype of a simple bot for trading cryptocurrencies following basic trading a
 
 You are welcome to reach out if you need any clarification or have suggestions regarding this project.
 
+### Preview
+
+![Screenshot](https://github.com/Ophuscado/buy-high-sell-higher/blob/master/screenshot.png)
+
 ## Attributions
 
 This project has influence from many sources. You can find a quasi-complete
