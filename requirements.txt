@@ -1,4 +1,6 @@
 ccxt
 python-dotenv
 rich
+numpy
+ta-lib
 wheel

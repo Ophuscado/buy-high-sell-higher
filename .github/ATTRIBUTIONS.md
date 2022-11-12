@@ -1,9 +1,8 @@
 # Code Attributions
 
-This project is inspired heavily by [Buy Low, Sell High.](https://github.com/zyairelai/buy-low-sell-high)
+This project is inspired by [Buy Low, Sell High.](https://github.com/zyairelai/buy-low-sell-high)
 
-Additionally, the following people and organisations have contributed in some way to this
-project:
+Additionally, the following people and organisations have contributed in some way to this project:
 
 - [...]
 
@@ -11,4 +10,9 @@ project:
 
 This project depends on the following third-party software:
 
-- [...]
+- ccxt
+- python-dotenv
+- rich
+- numpy
+- ta-lib
+- wheel

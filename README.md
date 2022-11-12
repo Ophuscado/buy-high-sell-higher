@@ -1,11 +1,10 @@
-# Buy High, Sell Higher (BETA)
-
-[![Buy High, Sell Higher (CI)](https://github.com/Ophuscado/buy-high-sell-higher/actions/workflows/ci.yml/badge.svg)](https://github.com/Ophuscado/buy-high-sell-higher/actions/workflows/ci.yml)
-[![DeepSource](https://deepsource.io/gh/Ophuscado/buy-high-sell-higher.svg/?label=active+issues&show_trend=true&token=hvvWccs9FWfm5x0odlYXLRmG)](https://deepsource.io/gh/Ophuscado/buy-high-sell-higher/?ref=repository-badge)
+# Buy High, Sell Higher
 
 ## About
 
-This script will attempt to profit buying low and selling high on FTX.
+Prototype of a simple bot for trading cryptocurrencies following basic trading analysis signals such as Average Directional Movement Index (ADX), Moving Average Convergence Divergence (MACD), and Relative Strength Index (RSI).
+
+You are welcome to reach out if you need any clarification or have suggestions regarding this project.
 
 ## Attributions
 
@@ -21,11 +20,11 @@ before submitting a pull request.
 
 ## Documentation
 
-[...]
+Prototyping stage. Documentation will be added as the project moves forward.
 
 ## License
 
-Copyright (c) 2022, Ophuscado LLC
+Copyright (c) 2022, Ophuscado LLC.
 
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
 
