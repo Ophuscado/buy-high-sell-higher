@@ -8,23 +8,19 @@ You are welcome to reach out if you need any clarification or have suggestions r
 
 ### Preview
 
-![Screenshot](https://raw.githubusercontent.com/Ophuscado/buy-high-sell-higher/main/screenshot.png)
+![Screenshot](https://raw.githubusercontent.com/Ophuscado/buy-high-sell-higher/main/.github/screenshot.png)
 
 ## Attributions
 
-This project has influence from many sources. You can find a quasi-complete
-list of attributions in the file
-[`ATTRIBUTIONS.md`.](https://github.com/Ophuscado/buy-high-sell-higher/blob/master/.github/ATTRIBUTIONS.md)
+This project has influence from many sources. You can find a quasi-complete list of attributions in the file [`ATTRIBUTIONS.md`.](https://github.com/Ophuscado/buy-high-sell-higher/blob/master/.github/ATTRIBUTIONS.md)
 
 ## Contributions
 
-Please read
-[`CONTRIBUTIONS.md`](https://github.com/Ophuscado/buy-high-sell-higher/blob/master/.github/CONTRIBUTIONS.md)
-before submitting a pull request.
+Please read [`CONTRIBUTIONS.md`](https://github.com/Ophuscado/buy-high-sell-higher/blob/master/.github/CONTRIBUTIONS.md) before submitting a pull request.
 
 ## Documentation
 
-Prototyping stage. Documentation will be added as the project moves forward.
+Configuration is done via `.env` file.
 
 ## License
 
