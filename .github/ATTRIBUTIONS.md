@@ -4,11 +4,11 @@ This project is inspired by [Buy Low, Sell High.](https://github.com/zyairelai/b
 
 Additionally, the following people and organisations have contributed in some way to this project:
 
-- [...]
+(Empty)
 
 # Software Attributions
 
-This project depends on the following third-party software:
+This project relies on the following third-party software:
 
 - ccxt
 - python-dotenv

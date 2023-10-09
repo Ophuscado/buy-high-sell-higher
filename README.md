@@ -2,7 +2,7 @@
 
 ## About
 
-Prototype of a simple bot for trading cryptocurrencies following basic trading analysis signals such as Average Directional Movement Index (ADX), Moving Average Convergence Divergence (MACD), and Relative Strength Index (RSI).
+Prototype of a dummy simple bot for trading cryptocurrencies following basic trading analysis signals such as Average Directional Movement Index (ADX), Moving Average Convergence Divergence (MACD), and Relative Strength Index (RSI).
 
 You are welcome to reach out if you need any clarification or have suggestions regarding this project.
 
@@ -12,11 +12,11 @@ You are welcome to reach out if you need any clarification or have suggestions r
 
 ## Attributions
 
-This project has influence from many sources. You can find a quasi-complete list of attributions in the file [`ATTRIBUTIONS.md`.](https://github.com/Ophuscado/buy-high-sell-higher/blob/master/.github/ATTRIBUTIONS.md)
+This project has influence from many sources. You can find a quasi-complete list of attributions in the file [`ATTRIBUTIONS.md`.](https://github.com/Ophuscado/buy-high-sell-higher/blob/main/.github/ATTRIBUTIONS.md)
 
 ## Contributions
 
-Please read [`CONTRIBUTIONS.md`](https://github.com/Ophuscado/buy-high-sell-higher/blob/master/.github/CONTRIBUTIONS.md) before submitting a pull request.
+Please read [`CONTRIBUTIONS.md`](https://github.com/Ophuscado/buy-high-sell-higher/blob/main/.github/CONTRIBUTIONS.md) before submitting a pull request.
 
 ## Documentation
 
@@ -24,7 +24,7 @@ Configuration is done via `.env` file.
 
 ## License
 
-Copyright (c) 2022, Ophuscado LLC.
+Copyright (c) 2022-2023, Ophuscado LLC.
 
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
 
